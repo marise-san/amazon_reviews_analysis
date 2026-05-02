@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+pyspark==3.5.1
+kagglehub
+jupyter
+matplotlib
+seaborn
+pandas
+requests
